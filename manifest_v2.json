@@ -1,0 +1,116 @@
+{
+  "item": {
+    "id": "com.skillman.angrybird",
+    "restype": "quick_app",
+    "name": "愤怒的小鸟",
+    "description": "《愤怒的小鸟》是一款专为智能穿戴设备打造的休闲弹射闯关游戏。玩家需要拉动弹弓，调整发射角度与力度，将小鸟准确射向敌方阵地，破坏木块、石块等障碍物，利用倒塌、滚落和连续碰撞消灭躲藏其中的小猪。\n游戏操作简单，但想要获得更高评价并不容易。不同的建筑结构拥有各自的受力特点，玩家需要观察关卡布局，寻找薄弱位置，用有限的小鸟制造更大范围的连锁反应。一次精准的撞击，可能让整座建筑瞬间倒塌；错误的发射角度，也可能让小猪侥幸逃过一劫。\n随着关卡推进，障碍结构会逐渐复杂，挑战难度也会不断提升。玩家可以根据局势使用不同道具，帮助调整攻击方式、提高破坏效率或挽救关键失误。完成关卡后，将根据剩余小鸟、通关表现和最终得分获得星级评价与奖励。",
+    "preview": [
+      "media/背包.png",
+      "media/结算.png",
+      "media/商店.png",
+      "media/选择关卡.png",
+      "media/游戏界面.png",
+      "media/暂停.png",
+      "media/主页.png",
+      "media/游戏页.png",
+      "media/通关结算.png",
+      "media/游戏碰撞.png",
+      "media/游戏设置.png",
+      "media/游戏暂停.png",
+      "media/分组_20.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/分组_2.png",
+    "author": [
+      {
+        "name": "SkillMan",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "爱发电商品链接",
+      "url": "https://ifdian.net/item/2f19494aa1e911f1b88b52540025c377",
+      "icon": "globe"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.1.0",
+      "file_name": "downloads/愤怒的小鸟1.1.0(红米56).rpk",
+      "versionCode": 2
+    },
+    "xmrw5xring": {
+      "version": "1.1.0",
+      "file_name": "downloads/愤怒的小鸟1.1.0(红米56).rpk",
+      "versionCode": 2
+    },
+    "xmrw6": {
+      "version": "1.1.0",
+      "file_name": "downloads/愤怒的小鸟1.1.0(红米56).rpk",
+      "versionCode": 2
+    },
+    "xmb10": {
+      "version": "1.1.0",
+      "file_name": "downloads/愤怒的小鸟1.1.0(米环10).rpk",
+      "versionCode": 2
+    },
+    "xmb10nfc": {
+      "version": "1.1.0",
+      "file_name": "downloads/愤怒的小鸟1.1.0(米环10).rpk",
+      "versionCode": 2
+    },
+    "xmb10p": {
+      "version": "1.1.0",
+      "file_name": "downloads/愤怒的小鸟1.1.0(米环910Pro).rpk",
+      "versionCode": 2
+    },
+    "xmb11": {
+      "version": "1.1.0",
+      "file_name": "downloads/愤怒的小鸟1.1.0(米环10).rpk",
+      "versionCode": 2
+    },
+    "xmb11nfc": {
+      "version": "1.1.0",
+      "file_name": "downloads/愤怒的小鸟1.1.0(米环10).rpk",
+      "versionCode": 2
+    },
+    "xmb9p": {
+      "version": "1.1.0",
+      "file_name": "downloads/愤怒的小鸟1.1.0(米环910Pro).rpk",
+      "versionCode": 2
+    },
+    "xmws3": {
+      "version": "1.1.0",
+      "file_name": "downloads/愤怒的小鸟1.1.0(米表S345).rpk",
+      "versionCode": 2
+    },
+    "xmws4xring": {
+      "version": "1.1.0",
+      "file_name": "downloads/愤怒的小鸟1.1.0(米表S345).rpk",
+      "versionCode": 2
+    },
+    "xmws441": {
+      "version": "1.1.0",
+      "file_name": "downloads/愤怒的小鸟1.1.0(米表S345).rpk",
+      "versionCode": 2
+    },
+    "xmws4": {
+      "version": "1.1.0",
+      "file_name": "downloads/愤怒的小鸟1.1.0(米表S345).rpk",
+      "versionCode": 2
+    },
+    "xmws541": {
+      "version": "1.1.0",
+      "file_name": "downloads/愤怒的小鸟1.1.0(米表S345).rpk",
+      "versionCode": 2
+    },
+    "xmws5": {
+      "version": "1.1.0",
+      "file_name": "downloads/愤怒的小鸟1.1.0(米表S345).rpk",
+      "versionCode": 2
+    }
+  },
+  "ext": {}
+}
